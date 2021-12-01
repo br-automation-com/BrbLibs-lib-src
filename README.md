@@ -24,7 +24,7 @@ Many useful functions/function blocks to solve general requirements at programmi
 ## Introduction BrbLibVc4
 Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic. Everything is well documented, but only in german. Excerpt of functionality:
   * Read out touch state
-  * Mighty page navigation handling (forward/backward, init and exit functionality, parameterizable screen saver, etc...)
+  * Mighty page navigation handling (back to previous page, init and exit functionality, parameterizable screen saver, etc...)
   * Support of all native controls with structures and functions (Button, Bargraph, Drawbox, Dropdown, etc...)
   * Implementation of none native controls (Check box, option box, incremental button, jog button, scroll bars, tab control, touchgrid, etc...)
   * Support of owner drawing (dashed forms, clipping, coordinate correction, etc...)
