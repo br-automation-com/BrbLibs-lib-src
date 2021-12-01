@@ -18,6 +18,8 @@ Many useful functions/function blocks to solve general requirements at programmi
   * Scaling (handling of analog in/outputs)
   * Timer-Switch for 1 channel (switching on many settings like date, weekday etc.)
 
+[**For a detailed description see this link**](https://github.com/br-automation-com/BrbLibs-lib-src/blob/main/BrbLib%20-%20Dokumentation.pdf)
+
 <a name="Introduction_BrbLibVc4"></a>
 ## Introduction BrbLibVc4
 Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic. Everything is well documented, but only in german. Excerpt of functionality:
@@ -29,4 +31,6 @@ Many useful functions/function blocks for a transparent and intuitive coding of 
   * Trend control with a lots of features (1µs resolution, touch usability for scrolling/zooming/cursors, various source settings, easy visual extension with callbacks, etc...)
   * X/Y-Plot control with a lots of features (touch usability for scrolling/zooming/cursor, various source settings, easy visual extension with callbacks, etc...)
   * Treeview control with a lots of features (touch usability for expanding/scrolling, icon support, easy visual extension with callbacks, etc...)
+
+[**For a detailed description see this link**](https://github.com/br-automation-com/BrbLibs-lib-src/blob/main/BrbLibVc4%20-%20Dokumentation.pdf)
 
