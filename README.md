@@ -1,4 +1,4 @@
-# BrbLibs-lib-src
+# BrbLibs
 BrbLib (general functions), BrbVc4 (functions for VC4)
 
 ## Table of Contents
@@ -20,13 +20,13 @@ Many useful functions/function blocks to solve general requirements at programmi
 
 <a name="Introduction_BrbLibVc4"></a>
 ## Introduction BrbLibVc4
-Many useful functions/function blocks for a transparent and intuitive coding of a vc4 logic. Everything is well documented, but only in german. Excerpt of functionality:
+Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic. Everything is well documented, but only in german. Excerpt of functionality:
   * Read out touch state
   * Mighty page navigation handling (forward/backward, init and exit functionality, parameterizable screen saver, etc...)
   * Support of all native controls with structures and functions (Button, Bargraph, Drawbox, Dropdown, etc...)
   * Implementation of none native controls (Check box, option box, incremental button, jog button, scroll bars, tab control, touchgrid, etc...)
   * Support of owner drawing (dashed forms, clipping, coordinate correction, etc...)
-  * Mighty Trend control with a lots of features (1µs resolution, touch usability for scrolling/zooming/cursors, various source settings, easy visual extension with callbacks, etc...)
+  * Trend control with a lots of features (1µs resolution, touch usability for scrolling/zooming/cursors, various source settings, easy visual extension with callbacks, etc...)
   * X/Y-Plot control with a lots of features (touch usability for scrolling/zooming/cursor, various source settings, easy visual extension with callbacks, etc...)
-  * Treeview-Control with a lots of features (touch usability for expanding/scrolling, icon support, easy visual extension with callbacks, etc...)
+  * Treeview control with a lots of features (touch usability for expanding/scrolling, icon support, easy visual extension with callbacks, etc...)
 
