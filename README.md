@@ -1,5 +1,6 @@
 # BrbLibs
 BrbLib (general functions), BrbVc4 (functions for VC4), BrbVc2d (functions to draw dynamical 2d models for VC4)
+Useable for AS4.9 - AS4.12 and AS6.x
 
 ## Table of Contents
 * [Introduction BrbLib](#Introduction_BrbLib)
